@@ -20,7 +20,7 @@ This repo is structured using [yarn workspaces](https://yarnpkg.com/lang/en/docs
 
 - `web`: A typescript React web app running on NextJs
 
-### Storybook
+### Storybook guide
 
 The `web` package also features a storybook for components. To run:
 
